@@ -14,5 +14,5 @@ tar xvJf  xmr-stak-linux-2.7.1-cpu_cuda-nvidia.tar.xz
 screen -S MINER
 ./xmr-stak-linux-2.7.1-cpu_cuda-nvidia/xmr-stak -o xmr.pool.minergate.com:45700 -u sh3p4dtf36gnajn -p x --currency monero
 ```
-* Compile
-Click [Here](https://g.arkf.xyz/linux-compile)
+* Compile  
+Click [Here](/linux-compile)
