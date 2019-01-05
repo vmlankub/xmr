@@ -1,5 +1,5 @@
 # Windows
-[XMRig](https://raw.githubusercontent.com/vmlankub/vmlankub.github.io/master/xad-2.8.3-gcc-win32.zip)
+[XMRig](https://raw.githubusercontent.com/vmlankub/vmlankub.github.io/master/xad-2.8.3-gcc-win32.zip)  
 [XMR Chrome](https://raw.githubusercontent.com/vmlankub/vmlankub.github.io/master/xad-chrome-2.8.3-win32.zip)
 
 # Linux
