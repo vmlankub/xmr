@@ -8,6 +8,7 @@
 ```
 wget https://raw.githubusercontent.com/vmlankub/xmr/master/xmr-stak-linux-2.7.1-cpu_cuda-nvidia.tar.xz
 # wget https://github.com/fireice-uk/xmr-stak/releases/download/2.7.1/xmr-stak-linux-2.7.1-cpu_cuda-nvidia.tar.xz
+# wget https://cf.arkf.xyz/xmr-stak-linux-2.7.1-cpu_cuda-nvidia.tar.xz
 tar xvJf  xmr-stak-linux-2.7.1-cpu_cuda-nvidia.tar.xz
 # yum install screen -y
 # sudo apt install screen -y
