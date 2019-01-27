@@ -6,7 +6,7 @@
 ## Linux
 * xmr-stak-linux-2.7.1-cpu_cuda-nvidia.tar.xz
 ```
-wget https://raw.githubusercontent.com/vmlankub/cloudflare-files/master/xmr-stak-linux-2.7.1-cpu.tar.xz
+wget https://raw.githubusercontent.com/vmlankub/CloudFiles/master/xmr-stak-linux-2.7.1-cpu.tar.xz
 # wget https://cf.arkf.xyz/xmr-stak-linux-2.7.1-cpu.tar.xz
 # wget https://github.com/fireice-uk/xmr-stak/releases/download/2.7.1/xmr-stak-linux-2.7.1-cpu.tar.xz
 tar xvJf  xmr-stak-linux-2.7.1-cpu.tar.xz
