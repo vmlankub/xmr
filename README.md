@@ -13,7 +13,7 @@ tar xvJf xmr-stak-linux-2.7.1-cpu.tar.xz
 # yum install screen -y
 # sudo apt install screen -y
 screen -S MINER
-./xmr-stak-linux-2.7.1-cpu/xmr-stak -o xmr.pool.minergate.com:45700 -u sh3p4dtf36gnajn -p x --currency monero
+./xmr-stak-linux-2.7.1-cpu/xmr-stak -i 0 -o xmr.pool.minergate.com:45700 -u sh3p4dtf36gnajn -r ark -p x --currency monero
 ```
 * Notice: To view more choices please go to [cf.arkf.xyz](https://cf.arkf.xyz/)
 * Notice: [Alternative Miner](https://raw.githubusercontent.com/vmlankub/xmr/master/xmr-stak-linux-2.7.1-cpu_cuda-nvidia.tar.xz)
