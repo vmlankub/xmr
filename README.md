@@ -26,6 +26,5 @@ Click [Here](/linux-compile)
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'UA-116309064-2');
 </script>
