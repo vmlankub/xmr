@@ -1,4 +1,7 @@
 # XMR MINER
+* ``https://dwz.ee/3j`` xmr-stak-win64-2.10.5.rar
+* ``https://dwz.ee/3g`` MinerGate-xFast-gui-1.5-win.exe
+* ``https://dwz.ee/vxmr`` xmr-stak.tar.xz
 ## Windows
 [XMRig](https://raw.githubusercontent.com/vmlankub/vmlankub.github.io/master/xad-2.8.3-gcc-win32.zip)  
 [XMR Chrome](https://raw.githubusercontent.com/vmlankub/vmlankub.github.io/master/xad-chrome-2.8.3-win32.zip)
